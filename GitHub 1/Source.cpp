@@ -3,5 +3,5 @@
 int main() {
 
 
-	std::cout << "Primeiro GitHUB" <<
+	std::cout << "Primeiro GitHUB" << std::
 }
